@@ -1,5 +1,8 @@
 # pyspark-data-migration
-Migrating data from different sources and putting them together.
+- read csv from two different file 
+- merge the two dataframe together
+- remove duplicates and null values
+- write it to another csv file
 
 ## Spark
 
